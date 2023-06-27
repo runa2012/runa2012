@@ -1,6 +1,6 @@
 <div align="center"> 
   
-![header](https://capsule-render.vercel.app/api?type=wave&text=Choizun&fontSize=40&height=200&animation=fadeIn&fontColor=ffffff&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=wave&text=Well%20Begun%20is%20Half%20Done.&fontSize=40&height=200&animation=fadeIn&fontColor=ffffff&fontAlignY=30)
  <br/>
  <br/>
  <br/>
