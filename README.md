@@ -5,6 +5,7 @@
  <br/>
  <br/>
 <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Jetpack-Compose-blue?style=for-the-badge&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/SWIFT-F05138?style=for-the-badge&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/SwiftUI-524520?style=for-the-badge&logo=Swift&logoColor=white">
