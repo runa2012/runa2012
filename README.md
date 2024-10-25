@@ -25,8 +25,8 @@
 #### ✨ Service Experience.
 [![Notion Badge](https://img.shields.io/badge/TimeMate-FD415E?logo=googleplay&logoColor=white&link=https://shorturl.at/NaYvt)](https://shorturl.at/NaYvt)
 [![Notion Badge](https://img.shields.io/badge/에구머니(1.57천)-0D96F6?logo=googleplay&logoColor=white&link=https://rb.gy/ypwxz)](https://rb.gy/ypwxz)
-[![Notion Badge](https://img.shields.io/badge/GodChoic(3.24천)-ECD53F?logo=googleplay&logoColor=white&link=https://shorturl.at/KXXoc)](https://shorturl.at/KXXoc)
-![Notion Badge](https://img.shields.io/badge/GodChoic-ECD53F?logo=appstore&logoColor=white)
+[![Notion Badge](https://img.shields.io/badge/GodChoice(3.24천)-ECD53F?logo=googleplay&logoColor=white&link=https://shorturl.at/KXXoc)](https://shorturl.at/KXXoc)
+![Notion Badge](https://img.shields.io/badge/GodChoice-ECD53F?logo=appstore&logoColor=white)
 ![Notion Badge](https://img.shields.io/badge/FindLaw(6.66천)-83B81A?logo=googleplay&logoColor=white)
 ![Notion Badge](https://img.shields.io/badge/FindLaw-83B81A?logo=appstore&logoColor=white)
 
