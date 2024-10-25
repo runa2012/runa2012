@@ -24,7 +24,7 @@
 ####  :clipboard: Once I've Used   
 <br/>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runa2012&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runa2012&layout=compact&count_private=true)
  
 <br/>
   
