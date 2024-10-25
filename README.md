@@ -22,7 +22,13 @@
 <br/>
 
 #### ✨ Note & Service
-[![Notion Badge](https://img.shields.io/badge/-Notion-92a8d1?logo=notion&logoColor=white&link=https://slender-blizzard-e61.notion.site/Choizun-3dcd1539cfa241498964e99fcc19e0ef)](https[://www.notion.so/Bio-105b3e3de6de49f0babd3c9e4f3e3c75](https://slender-blizzard-e61.notion.site/Choizun-3dcd1539cfa241498964e99fcc19e0ef))
+[![Notion Badge](https://img.shields.io/badge/-Notion-92a8d1?logo=notion&logoColor=white&link=https://rb.gy/bqquc)](https://rb.gy/bqquc)
+[![Notion Badge](https://img.shields.io/badge/TimeMate-FD415E?logo=googleplay&logoColor=white&link=https://shorturl.at/NaYvt)](https://shorturl.at/NaYvt)
+[![Notion Badge](https://img.shields.io/badge/에구머니-0D96F6?logo=googleplay&logoColor=white&link=https://rb.gy/ypwxz)](https://rb.gy/ypwxz)
+[![Notion Badge](https://img.shields.io/badge/GodChoic-ECD53F?logo=googleplay&logoColor=white&link=https://shorturl.at/KXXoc)](https://shorturl.at/KXXoc)
+![Notion Badge](https://img.shields.io/badge/GodChoic-ECD53F?logo=appstore&logoColor=white)
+![Notion Badge](https://img.shields.io/badge/FindLaw-83B81A?logo=googleplay&logoColor=white)
+![Notion Badge](https://img.shields.io/badge/FindLaw-83B81A?logo=appstore&logoColor=white)
 
 <br/>
   
