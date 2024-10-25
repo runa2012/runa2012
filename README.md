@@ -21,21 +21,19 @@
 <br/>
 <br/>
 
+
 #### ✨ Note & Service
 [![Notion Badge](https://img.shields.io/badge/-Notion-92a8d1?logo=notion&logoColor=white&link=https://rb.gy/bqquc)](https://rb.gy/bqquc)
 [![Notion Badge](https://img.shields.io/badge/TimeMate-FD415E?logo=googleplay&logoColor=white&link=https://shorturl.at/NaYvt)](https://shorturl.at/NaYvt)
-[![Notion Badge](https://img.shields.io/badge/에구머니-0D96F6?logo=googleplay&logoColor=white&link=https://rb.gy/ypwxz)](https://rb.gy/ypwxz)
-[![Notion Badge](https://img.shields.io/badge/GodChoic-ECD53F?logo=googleplay&logoColor=white&link=https://shorturl.at/KXXoc)](https://shorturl.at/KXXoc)
+[![Notion Badge](https://img.shields.io/badge/에구머니(1.57천)-0D96F6?logo=googleplay&logoColor=white&link=https://rb.gy/ypwxz)](https://rb.gy/ypwxz)
+[![Notion Badge](https://img.shields.io/badge/GodChoic(3.24천)-ECD53F?logo=googleplay&logoColor=white&link=https://shorturl.at/KXXoc)](https://shorturl.at/KXXoc)
 ![Notion Badge](https://img.shields.io/badge/GodChoic-ECD53F?logo=appstore&logoColor=white)
-![Notion Badge](https://img.shields.io/badge/FindLaw-83B81A?logo=googleplay&logoColor=white)
+![Notion Badge](https://img.shields.io/badge/FindLaw(6.66천)-83B81A?logo=googleplay&logoColor=white)
 ![Notion Badge](https://img.shields.io/badge/FindLaw-83B81A?logo=appstore&logoColor=white)
 
 <br/>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runa2012&layout=compact&count_private=true)
- 
-<br/>
-  
-![choizun's GitHub stats](https://github-readme-stats.vercel.app/api?username=runa2012&show_icons=true&theme=radical&count_private=true)
 
-</div>
+[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fruna2012&count_bg=%23F7CAC9&title_bg=%2392A8D1&icon=swift.svg&icon_color=%23F7CAC9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![choizun's github stats](https://github-readme-stats.vercel.app/api?username=runa2012&count_private=true&custom_title=Choizun's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runa2012&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
