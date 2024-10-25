@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="left"> 
   
 ![header](https://capsule-render.vercel.app/api?type=wave&text=Well%20Begun%20is%20Half%20Done.&fontSize=40&height=200&animation=fadeIn&fontColor=ffffff&fontAlignY=30)
  <br/>
@@ -20,7 +20,10 @@
 <img src="https://img.shields.io/badge/aws-F80000?style=for-the-badge&logo=Amazon aws&logoColor=white">
 <br/>
 <br/>
- 
+
+#### ✨ Note & Service
+[![Notion Badge](https://img.shields.io/badge/-Notion-92a8d1?logo=notion&logoColor=white&link=https://slender-blizzard-e61.notion.site/Choizun-3dcd1539cfa241498964e99fcc19e0ef)](https[://www.notion.so/Bio-105b3e3de6de49f0babd3c9e4f3e3c75](https://slender-blizzard-e61.notion.site/Choizun-3dcd1539cfa241498964e99fcc19e0ef))
+
 <br/>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runa2012&layout=compact&count_private=true)
