@@ -6,16 +6,42 @@
 <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/SWIFT-F05138?style=for-the-badge&logo=Swift&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=Css3&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/aws-F80000?style=for-the-badge&logo=Amazon aws&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white">
+
+#### ✨ Platform 
+<img src="https://img.shields.io/badge/ANDROID-34A853?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+
+#### ✨ System
+<img src="https://img.shields.io/badge/Window-80B3FF?style=for-the-badge&logo=Window&logoColor=white">
+<img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=MacOS&logoColor=white">
+
+#### ✨ Tool
+<img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+<img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">
+<img src="https://img.shields.io/badge/fork-2563EB?style=for-the-badge&logo=Fork&logoColor=white">
+<img src="https://img.shields.io/badge/VisualStudio-302E31?style=for-the-badge&logo=VisualStudio&logoColor=white">
+<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 <br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+<img src="https://img.shields.io/badge/Teams-4B69B6?style=for-the-badge&logo=Teams&logoColor=white">
+
+#### ✨ Framework / Libray / Technology
+<img src="https://img.shields.io/badge/jetpackcompose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
+<img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/nodedot.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+#### ✨ Data
+<img src="https://img.shields.io/badge/googleanalytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white">
+<img src="https://img.shields.io/badge/googleads-4285F4?style=for-the-badge&logo=googleads&logoColor=white">
+<img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white">
 
 #### ✨ Note
 [![Notion Badge](https://img.shields.io/badge/-Notion-92a8d1?logo=notion&logoColor=white&link=https://rb.gy/bqquc)](https://rb.gy/bqquc)
@@ -30,7 +56,9 @@
 
 <br/>
 
-[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fruna2012&count_bg=%23F7CAC9&title_bg=%2392A8D1&icon=swift.svg&icon_color=%23F7CAC9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 [![choizun's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=runa2012&count_private=true&custom_title=Choizun's&nbsp;github&nbsp;👀&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runa2012&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
